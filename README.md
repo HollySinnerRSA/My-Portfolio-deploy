@@ -1,2 +1,5 @@
 # My-Portfolio-deploy
-To use to deploy Potfolio
+
+My-Portfolio
+
+To use to deploy Portfolio
